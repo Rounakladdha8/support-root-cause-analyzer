@@ -28,3 +28,5 @@ streamlit run app.py
 - Interactive dashboard with complaint volume by category
 - AI-generated postmortem and operational recommendation per category
 - One-click analysis for any complaint cluster
+
+# Download dataset from: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter
